@@ -5,7 +5,6 @@ Web Developer Student
 ---------------------------------------------------------
 
 * 🌍  I'm based in Thonon-les-Bains
-* ✉️  You can contact me at [benjamin.ristord@hotmail.com](mailto:benjamin.ristord@hotmail.com)
 * 🧠  I'm learning Python
 
 ### Skills
