@@ -13,8 +13,9 @@ Web Developer Student
 </p>
 
 
-### IBM
-- Certification Agile Explorer
+### IBM SkillsBuild
+
+- Agile Explorer
 
 ### Socials
 
