@@ -2,7 +2,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 My name is Benjamin Ristord
 ========================================================================================================================================
 
-💻 Web Developer Student @ 📍Holberton School Thonon-les-bains
+💻 Web Developer Student @ 📍Holberton School Thonon-les-Bains
 ---------------------------------------------------------
 
 ### Skills
