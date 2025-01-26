@@ -19,6 +19,8 @@ My name is Benjamin Ristord
 
 🌱 My professional philosophy centers on perpetual growth, believing that every project is an opportunity to learn, innovate, and evolve as a developer.<br> 
 
+📫 [Feel free to contact me](mailto:9772@holbertonstudents.com)
+
 
 ### Skills
 
