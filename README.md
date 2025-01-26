@@ -15,9 +15,9 @@ My name is Benjamin Ristord
 
 ### IBM SkillsBuild
 
-- Agile Explorer
-- SQL and Relational Databases 101
-- Detecting SQL injection attacks with Guardium
+🔹 Agile Explorer
+🔹 SQL and Relational Databases 101
+🔹 Detecting SQL injection attacks with Guardium
 
 ### Socials
 
