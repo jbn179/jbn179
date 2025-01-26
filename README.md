@@ -7,17 +7,17 @@ My name is Benjamin Ristord
 
 ### Profile
 
-🚀 Web and mobile developer in training at Holberton School, I am a professional passionate about technological innovation, specialized in creating innovative digital solutions.
+🚀 Web and mobile developer in training at Holberton School, I am a professional passionate about technological innovation, specialized in creating innovative digital solutions.<br>
 
-💻 My technical curiosity drives me to push the boundaries of software development.
+💻 My technical curiosity drives me to push the boundaries of software development.<br>
 
-🔍 My added value lies in my ability to transform complex challenges into elegant and high-performance solutions, while maintaining a relentless commitment to continuous learning. 
+🔍 My added value lies in my ability to transform complex challenges into elegant and high-performance solutions, while maintaining a relentless commitment to continuous learning.<br>
 
-📚 I am driven by an insatiable appetite for knowledge, constantly seeking to expand my technical skills and explore emerging technologies. 
+📚 I am driven by an insatiable appetite for knowledge, constantly seeking to expand my technical skills and explore emerging technologies.<br>
 
-🛠️ Rigorous and adaptable, I am committed to creating applications that meet both technical requirements and user experience needs. 
+🛠️ Rigorous and adaptable, I am committed to creating applications that meet both technical requirements and user experience needs.<br>
 
-🌱 My professional philosophy centers on perpetual growth, believing that every project is an opportunity to learn, innovate, and evolve as a developer. 
+🌱 My professional philosophy centers on perpetual growth, believing that every project is an opportunity to learn, innovate, and evolve as a developer.<br> 
 
 
 ### Skills
