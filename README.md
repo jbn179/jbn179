@@ -16,6 +16,8 @@ Web Developer Student at Holberton School Thonon-les-bains
 ### IBM SkillsBuild
 
 - Agile Explorer
+- SQL and Relational Databases 101
+- Detecting SQL injection attacks with Guardium
 
 ### Socials
 
